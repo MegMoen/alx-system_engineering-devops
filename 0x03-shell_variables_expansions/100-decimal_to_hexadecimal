@@ -1,0 +1,2 @@
+#!/bin/bashg
+printf "%x\n" $DECIMAL
